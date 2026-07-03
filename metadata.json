@@ -1,0 +1,8 @@
+{
+  "name": "СтройДом - Одноэтажные дома",
+  "description": "Сайт компании по продаже готовых одноэтажных домов. Каталог проектов, информация о компании и контакты.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
